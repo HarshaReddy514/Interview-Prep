@@ -5,6 +5,11 @@ import java.util.stream.Collectors;
 
 public class FirstRepeatedChar {
 
+    /*Sample Input and Output
+    * Input: java is cool!
+    * Output: a
+    * */
+
     public static void main(String[] args) {
         String input = "Java is cool!";
 

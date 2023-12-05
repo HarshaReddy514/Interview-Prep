@@ -5,6 +5,11 @@ import java.util.stream.Collectors;
 
 public class FirstNonRepeatedChar {
 
+    /*Sample Input and Output
+     * Input: java is cool!
+     * Output: j
+     * */
+
     public static void main(String[] args) {
         String input = "Java is cool!";
 
